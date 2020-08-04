@@ -1,0 +1,62 @@
+[W 12:35:29.767 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 12:35:29.768 NotebookApp] 端口 8888 已经被站用, 请尝试其他端口.
+[I 12:35:29.772 NotebookApp] 启动notebooks 在本地路径: /home/toohoo/linux_performance_optimization
+[I 12:35:29.772 NotebookApp] Jupyter Notebook 6.1.0 is running at:
+[I 12:35:29.772 NotebookApp] http://vultrguest:8889/
+[I 12:35:29.772 NotebookApp] 使用control-c停止此服务器并关闭所有内核(两次跳过确认).
+[W 12:49:54.343 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 12:49:54.347 NotebookApp] 启动notebooks 在本地路径: /home/toohoo/linux_performance_optimization
+[I 12:49:54.347 NotebookApp] Jupyter Notebook 6.1.0 is running at:
+[I 12:49:54.348 NotebookApp] http://vultrguest:8888/
+[I 12:49:54.348 NotebookApp] 使用control-c停止此服务器并关闭所有内核(两次跳过确认).
+[I 12:51:32.565 NotebookApp] Creating new directory in 
+[I 12:52:09.165 NotebookApp] Creating new notebook in /01>Linux 性能优化
+[I 12:52:16.326 NotebookApp] Kernel started: 4086eed2-4da6-4f13-87a5-f03e5116787a, name: python3
+[W 12:52:46.190 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20200804124953 (121.35.102.89) 17.49ms referer=http://45.32.37.247:8888/notebooks/01%3ELinux%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/%E6%9C%AA%E5%91%BD%E5%90%8D.ipynb?kernel_name=python3
+[I 12:54:16.404 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 12:56:16.728 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 12:58:16.726 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:00:19.046 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:08:16.446 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:10:19.301 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:12:16.475 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:14:16.405 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:16:16.726 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:18:16.409 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:20:17.060 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:21:29.105 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:22:16.406 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:23:35.642 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:24:16.418 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:26:16.741 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:28:16.734 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:30:16.417 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:32:16.732 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:34:16.495 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:40:16.730 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:42:16.412 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:44:16.901 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:46:17.052 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:48:16.492 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:50:03.223 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:50:16.488 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:52:17.022 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:52:50.112 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 13:56:51.619 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 14:00:45.284 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 14:04:54.462 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 14:08:51.296 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 14:12:51.695 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 14:13:53.196 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 14:15:00.743 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 14:16:56.952 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 14:19:02.789 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 14:20:54.123 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 14:20:59.949 NotebookApp] Saving file at /01>Linux 性能优化/Linux 性能优化.ipynb
+[I 14:24:16.895 NotebookApp] Kernel started: 1850a0c3-7f70-49c6-9364-dc37b3744479, name: python3
+[I 14:24:16.897 NotebookApp] Starting buffering for 4086eed2-4da6-4f13-87a5-f03e5116787a:5568078039b14fedbd3112025fee6ba7
+[I 14:26:17.084 NotebookApp] Saving file at /01_Linux_performance/linux_performance_optimization.ipynb
+[I 14:26:54.381 NotebookApp] Uploading file to /01_Linux_performance/linux_perf_tools_full.png
+[I 14:27:18.475 NotebookApp] 302 GET /notebooks/01_Linux_performance/linux_perf_tools_full.png (121.35.102.89) 2.29ms
+[I 14:28:17.104 NotebookApp] Saving file at /01_Linux_performance/linux_performance_optimization.ipynb
+[I 14:34:18.449 NotebookApp] Creating new file in /01_Linux_performance
